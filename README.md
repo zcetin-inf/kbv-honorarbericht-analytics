@@ -11,6 +11,8 @@ Stand September 2026. © Kassenärztliche Bundesvereinigung.
 Direkter Download der Tabellen:
 https://www.kbv.de/documents/infothek/zahlen-und-fakten/honorarbericht/honorarbericht-tabellen.xlsx
 
+Verwendete Version: Stand September 2026 (Daten bis Q3/2024). 
+
 Informationen zum Honorarbericht:
 https://www.kbv.de/infothek/zahlen-und-fakten/studien-und-berichte/honorarbericht
 
